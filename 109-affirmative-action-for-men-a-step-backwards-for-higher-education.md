@@ -1,0 +1,17 @@
+In recent years, a growing trend has emerged in the realm of higher education: the declining enrollment of male students. This phenomenon has led many colleges to unofficially adopt what can be termed as “affirmative action for men.” But is this the direction higher learning should be taking, especially in light of the recent ruling by the US Supreme Court that deemed affirmative action unconstitutional?
+
+The New York Times article titled “‘There Was Definitely a Thumb on the Scale to Get Boys’” by Susan Dominus delves deep into this issue. The article highlights that women now significantly outnumber men on campuses. For instance, Tulane University’s freshman class last year was nearly two-thirds female. This trend isn’t isolated to Tulane; the gender ratio is skewed at many state schools, small liberal-arts colleges, community colleges, and historically Black colleges and universities.
+
+The gender gap in educational achievement starts early. By the time they graduate high school, girls make up two-thirds of the top 10 percent of their class. Despite this, economic factors and societal perceptions might be influencing young men’s decisions not to enroll in higher education.
+
+The declining male enrollment has been a concern for decades, and the pandemic has only exacerbated the issue. As a result, many schools are striving to close this gender gap. Some are investing in sports programs, while others are offering incentives to male applicants. However, the most straightforward way for many competitive schools to address their gender ratios is during the selection process, where male applicants often receive informal preference.
+
+Historically, the number of women seeking higher degrees began to rise in the 1960s and ’70s. By the early ’80s, more women were attending college than men. Some universities even had admissions policies that explicitly favored men to maintain a balanced gender ratio. However, lawsuits and changing societal perceptions led many of these institutions to drop such policies.
+
+Despite the challenges, some state schools continued to informally favor male applicants. The U.S. Commission on Civil Rights began an investigation into gender discrimination in admissions at 19 colleges and universities in the mid-Atlantic region in 2009, but the inquiry was dropped in 2011.
+
+The Supreme Court’s recent ruling on race-based affirmative action might not significantly impact colleges’ efforts to control their gender ratios since the court allows more leeway for gender-based discrimination than race-based. However, the underlying issue remains: should colleges be favoring one gender over the other in admissions?
+
+In conclusion, while the declining male enrollment in colleges is a concern, the solution isn’t straightforward. Affirmative action for men might seem like a quick fix, but it raises ethical and moral questions about fairness and equality. As society evolves and the importance of higher education becomes even more pronounced, it’s crucial to address this issue holistically, ensuring that all students, regardless of gender, have equal opportunities to succeed.
+
+Dominus, S. (2023, September 8). ‘There Was Definitely a Thumb on the Scale to Get Boys’. *The New York Times Magazine*. <https://www.nytimes.com/>

@@ -1,0 +1,11 @@
+Verizon Communications Inc. has agreed to a substantial $100 million class-action settlement, stemming from a lawsuit alleging the company imposed undisclosed administrative fees on its customers. This development is significant for current and former Verizon customers who had postpaid wireless or data services between January 1, 2016, and November 8, 2023.
+
+Eligible customers, identified by Verizon through emails and letters, are urged to file a claim by April 15, 2024, to be included in the settlement. The payout for each individual depends on several factors, including the total number of claims submitted and the duration of their Verizon service. While the potential compensation ranges from $15 to $100, the final amount is yet to be determined.
+
+Customers can file their claims on a dedicated website set up by the court of New Jersey. This process requires the Notice ID and Confirmation Code provided in the settlement notifications. Upon successful filing, and assuming the settlement passes the upcoming fairness trial, recipients can expect their payout through check, Venmo, or direct bank wire.
+
+This settlement represents a crucial moment in consumer rights, especially in the telecommunications industry. It highlights the need for transparent billing practices and could serve as a precedent for future legal actions against similar undisclosed charges by other companies. The settlement also coincides with a growing Federal focus on such practices, with the Federal Trade Commission proposing rules to restrict misleading charges and promote transparency.
+
+For Verizon, this settlement could have implications beyond the immediate financial payout. The company’s stock performance might reflect the legal challenges and the broader industry’s reaction to this significant legal development.
+
+For individuals who believe they are part of the settlement class but have not received a notification, it may be advisable to contact Verizon directly or check the settlement website for more information.
